@@ -1,6 +1,8 @@
-# Greetings
+# Greetings, my name is Daniil
 
-### Languages:
+I aspire to inject my creative vision into code
+
+### My stack:
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 ### Tools:

@@ -1,4 +1,4 @@
-# Greetings, my name is Daniil
+# Greetings, my alias is Jötunn
 
 ## I aspire to inject my creative vision into code
 

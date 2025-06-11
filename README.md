@@ -9,9 +9,6 @@
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,visualstudio,pycharm,flask)](https://skillicons.dev)
 
-### I run on:
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-
 <!--
 **JotunnheimExile/JotunnheimExile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,7 @@
 # Greetings, my alias is Jötunn
 
-## I aspire to inject my creative vision into code. I also write music and create custom designs.
+### I aspire to inject my creative vision into code.
+### I also write music and create custom designs.
 
 ### My stack:
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)

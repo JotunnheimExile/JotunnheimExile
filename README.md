@@ -1,5 +1,5 @@
 # Greetings, my alias is Jötunn
-# and I aspire to inject my creative vision into code
+# I aspire to inject my creative vision into code
 
 ### My stack:
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)

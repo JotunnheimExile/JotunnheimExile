@@ -1,4 +1,7 @@
-## Hi there 👋
+## Greetings
+
+Languages:
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 <!--
 **JotunnheimExile/JotunnheimExile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
